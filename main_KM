@@ -1,4 +1,4 @@
-from hàm import * #dùng để import tất cà từ hàm
+from hàm import * #dùng để import tất cà từ function
 np.random.seed(11)
 
 means = [[2, 2], [8, 3], [3, 6]]
